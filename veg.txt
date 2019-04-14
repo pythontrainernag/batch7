@@ -1,0 +1,3 @@
+tomato,25.5
+onion,50
+carrot,10o
